@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pcm",
+  "name": "PaleolithiCraft",
+  "description": "A mod made to set Minecraft in the Paleolithic era of Eurasia and Africa.",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["superlord9362"],
+  "credits": "Superlord for coding and modeling, Sind for textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
